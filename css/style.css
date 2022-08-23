@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box box-sizing: border-box;
+}
+
+.titulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(9, 9, 110);
+    font-size: 60px;
+
+}
+
+h1:hover{
+    color: blueviolet;
+    transition: .6s;
+    transform: perspective(1.3);
+}
